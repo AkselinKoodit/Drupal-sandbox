@@ -1,0 +1,7 @@
+# THEMENAME.info.yml file for ice cream example
+name: Ice Cream
+type: theme
+base theme: classy
+description: Nice theme for a sunny day!
+package: Custom
+core_version_requirement: ^8 || ^9
